@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "desktopSrc": "https://static.cdn.asset.filimo.com/ct/hpvnd_desktop_1_v2.jpeg?width=1920&quality=85&secret=slJ_dmMTQsB0HI8sbT5gcg?6",
+      "mobileSrc": "https://static.cdn.asset.filimo.com/ct/hpvnd_mobile_1_v2.jpeg?width=960&quality=85&secret=R0BH_KQEMsW2Ar6gzwLSSA?6",
+      "alt": "item-1",
+      "exclusive": "https://www.filimo.com/assets/web/ui/img-hyjUGF4iRmci82bufDLCA/filimo/exclusive-fa.svg",
+      "movieAlt": "item-1",
+      "movieLogo": "https://static.cdn.asset.filimo.com/ct/hpvnd_logotype_v2.png?width=300&quality=85&secret=z2awETfTiwPav6R6_gk8Cg",
+      "time": "ساعت ۸ صبح",
+      "details": "قسمت آخر",
+      "btnText": "تماشای رایگان",
+      "btnLink": "https://www.filimo.com/m/hpvnd"
+    },
+    {
+      "id": 2,
+      "desktopSrc": "https://static.cdn.asset.filimo.com/ct/135321_desktop_1_v1.jpeg?width=1920&quality=85&secret=S1sVsqGftckgNRpneVIJ_w?6",
+      "mobileSrc": "https://static.cdn.asset.filimo.com/ct/135321_mobile_1_v1.jpeg?width=960&quality=85&secret=63ALCByTumyvNKIoEZ7zdA?6",
+      "alt": "item-1",
+      "exclusive": "https://www.filimo.com/assets/web/ui/img-hyjUGF4iRmci82bufDLCA/filimo/exclusive-fa.svg",
+      "movieAlt": "item-1",
+      "movieLogo": "https://static.cdn.asset.filimo.com/ct/135321_logotype_v1.png?width=300&quality=85&secret=Gz2jcLSA03RooCHuVmU2Yw",
+      "time": "",
+      "details": "کنترل دنیای جنایتکاران",
+      "btnText": "تماشای رایگان",
+      "btnLink": "https://www.filimo.com/m/hpvnd"
+    },
+    {
+      "id": 3,
+      "desktopSrc": "https://static.cdn.asset.filimo.com/ct/5csyz_desktop_1_v3.jpeg?width=1920&quality=85&secret=pEUYsUIvWqWxg44zGk6HFw?6",
+      "alt": "item-2",
+      "exclusive": "https://www.filimo.com/assets/web/ui/img-hyjUGF4iRmci82bufDLCA/filimo/exclusive-fa.svg",
+      "movieAlt": "item-2",
+      "time": " یکشنبه‌ها، ساعت ۸ صبح",
+      "details": " اگه یک قدمی شکست هم بودی، لبخند بزن",
+      "btnText": "تماشای رایگان",
+      "btnLink": "https://www.filimo.com/m/hpvnd"
+    }
+  ]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "name": "خرید اشتراک",
+        "link": "https://www.filimo.com/signin",
+        "searchLink": "https://www.filimo.com/search"
+      },
+      {
+        "id": 2,
+        "name": "ورود",
+        "link": "https://www.filimo.com/signin"
+      }
+]

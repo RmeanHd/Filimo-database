@@ -1,0 +1,120 @@
+ [
+    {
+      "id": 2,
+      "link": "https://www.filimo.com/#tour",
+      "name": "فیلیموتور",
+      "svgtag": "ui-icon-fire"
+    },
+    {
+      "id": 3,
+      "link": "https://www.filimo.com/movies/%D9%81%DB%8C%D9%84%D9%85",
+      "name": "فیلم",
+      "arrow": "<svg fill='#949494' height='10px' width='10px' version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 330 330' xml:space='preserve' stroke='#949494'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'> <path id='XMLID_225_' d='M325.607,79.393c-5.857-5.857-15.355-5.858-21.213,0.001l-139.39,139.393L25.607,79.393 c-5.857-5.857-15.355-5.858-21.213,0.001c-5.858,5.858-5.858,15.355,0,21.213l150.004,150c2.813,2.813,6.628,4.393,10.606,4.393 s7.794-1.581,10.606-4.394l149.996-150C331.465,94.749,331.465,85.251,325.607,79.393z'></path> </g></svg>",
+      "dropdown": [
+        { "id": 1, "name": "انیمیشن" },
+        { "id": 2, "name": "کمدی" },
+        { "id": 3, "name": "وحشت" },
+        { "id": 4, "name": "اکشن" },
+        { "id": 5, "name": "هیجان انگیز" },
+        { "id": 6, "name": "جنگی" },
+        { "id": 7, "name": "علمی تخیلی" },
+        { "id": 8, "name": "عاشقانه" },
+        { "id": 9, "name": "ماجراجویی" },
+        { "id": 10, "name": "خانوادگی" },
+        { "id": 11, "name": "جنایی" },
+        { "id": 12, "name": "فانتزی" },
+        { "id": 13, "name": "رازآلود" },
+        { "id": 14, "name": "وسترن" },
+        { "id": 15, "name": "مستند" },
+        { "id": 16, "name": "درام" },
+        { "id": 17, "name": "تاریخی" },
+        { "id": 18, "name": "ورزشی" }
+      ]
+    },
+    {
+      "id": 4,
+      "link": "https://www.filimo.com/series/%D8%B3%D8%B1%DB%8C%D8%A7%D9%84",
+      "name": "سریال",
+      "arrow": "<svg fill='#949494' height='10px' width='10px' version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 330 330' xml:space='preserve' stroke='#949494'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'> <path id='XMLID_225_' d='M325.607,79.393c-5.857-5.857-15.355-5.858-21.213,0.001l-139.39,139.393L25.607,79.393 c-5.857-5.857-15.355-5.858-21.213,0.001c-5.858,5.858-5.858,15.355,0,21.213l150.004,150c2.813,2.813,6.628,4.393,10.606,4.393 s7.794-1.581,10.606-4.394l149.996-150C331.465,94.749,331.465,85.251,325.607,79.393z'></path> </g></svg>",
+      "dropdown": [
+        { "id": 1, "name": "کمدی" },
+        { "id": 2, "name": "انیمیشن" },
+        { "id": 3, "name": "ریلیتی شو" },
+        { "id": 4, "name": "خانوادگی" },
+        { "id": 5, "name": "عاشقانه" },
+        { "id": 6, "name": "وحشت" },
+        { "id": 7, "name": "اکشن" },
+        { "id": 8, "name": "جنگی" },
+        { "id": 9, "name": "مستند" },
+        { "id": 10, "name": "جنایی" },
+        { "id": 11, "name": "تاریخی" },
+        { "id": 12, "name": "علمی تخیلی" },
+        { "id": 13, "name": "هیجان انگیز" },
+        { "id": 14, "name": "درام" },
+        { "id": 15, "name": "رازآلود" },
+        { "id": 16, "name": "تاک شو" },
+        { "id": 17, "name": "ماجراجویی" },
+        { "id": 18, "name": "گیم شو" }
+      ]
+    },
+    {
+      "id": 5,
+      "link": "https://www.filimo.com/tag/iranian/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C",
+      "name": "ایرانی"
+    },
+    {
+      "id": 6,
+      "link": "https://www.filimo.com/tag/foreign",
+      "name": "خارجی"
+    },
+    {
+      "id": 7,
+      "link": "https://www.filimo.com/#",
+      "name": "مجموعه ها",
+      "arrow": "<svg fill='#949494' height='10px' width='10px' version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 330 330' xml:space='preserve' stroke='#949494'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'> <path id='XMLID_225_' d='M325.607,79.393c-5.857-5.857-15.355-5.858-21.213,0.001l-139.39,139.393L25.607,79.393 c-5.857-5.857-15.355-5.858-21.213,0.001c-5.858,5.858-5.858,15.355,0,21.213l150.004,150c2.813,2.813,6.628,4.393,10.606,4.393 s7.794-1.581,10.606-4.394l149.996-150C331.465,94.749,331.465,85.251,325.607,79.393z'></path> </g></svg>",
+      "dropdown": [
+        { "id": 1, "name": "فیلم‌های ایمان صفا" },
+        { "id": 2, "name": "براساس داستان واقعی" },
+        { "id": 3, "name": "فیلم‌های رعنا آزادی ور" },
+        { "id": 4, "name": "پایان غیر منتظره" },
+        { "id": 5, "name": "فیلم‌های غلامرضا نیکخواه" },
+        { "id": 6, "name": "هوش مصنوعی" },
+        { "id": 7, "name": "فیلم‌های هانیه توسلی" },
+        { "id": 8, "name": "هنر های رزمی" }
+      ]
+    },
+    {
+      "id": 8,
+      "link": "https://www.filimo.com/#tour",
+      "name": "فیلیمو مدرسه",
+      "svgtag": "icon-school"
+    },
+    {
+      "id": 9,
+      "link": "https://www.filimo.school/?utm_source=filimo-web&utm_medium=navigation&utm_campaign=filimo-user&utm_content=home",
+      "name": "کودک",
+      "arrow": "<svg fill='#949494' height='10px' width='10px' version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 330 330' xml:space='preserve' stroke='#949494'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'> <path id='XMLID_225_' d='M325.607,79.393c-5.857-5.857-15.355-5.858-21.213,0.001l-139.39,139.393L25.607,79.393 c-5.857-5.857-15.355-5.858-21.213,0.001c-5.858,5.858-5.858,15.355,0,21.213l150.004,150c2.813,2.813,6.628,4.393,10.606,4.393 s7.794-1.581,10.606-4.394l149.996-150C331.465,94.749,331.465,85.251,325.607,79.393z'></path> </g></svg>",
+      "dropdown": [
+        { "id": 1, "name": "شبکه کودک" },
+        { "id": 2, "name": "انیمیشن زیر ۱۵ سال" },
+        { "id": 3, "name": "کودک ایرانی" },
+        { "id": 4, "name": "باب اسفنجی" },
+        { "id": 5, "name": "سگ‌ های نگهبان" },
+        { "id": 6, "name": "ماجراجویی" },
+        { "id": 7, "name": "دختر کفشدوزکی" },
+        { "id": 8, "name": "ولاد و نیکی" },
+        { "id": 9, "name": "هتل ترانسیلوانیا" },
+        { "id": 10, "name": "بچه رئیس" },
+        { "id": 11, "name": "اژدها و هیولاها" },
+        { "id": 12, "name": "ماشین‌ها" },
+        { "id": 13, "name": "پرنسس" }
+      ],
+      "svgtag": "icon-horse"
+    },
+    {
+      "id": 10,
+      "link": "https://www.filimo.com/search",
+      "name": "جستجو",
+      "svgtag": "search"
+    }
+  ]

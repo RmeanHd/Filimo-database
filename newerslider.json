@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "description": "جنایی - رازآلود",
+      "details": "۱۴۰۳ - ایران",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_134994_187092.jpg?width=300&quality=85&secret=s_YJ6qHhRdoalUkUmfjR-A",
+      "alt": "item-1",
+      "freetext": "رایگان رایتلی",
+      "maintext": " بازنده - فصل ۱ قسمت ۱"
+    },
+    {
+      "id": 1,
+      "description": "جنایی - رازآلود",
+      "details": "۱۴۰۳ - ایران",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_134994_187092.jpg?width=300&quality=85&secret=s_YJ6qHhRdoalUkUmfjR-A",
+      "alt": "item-1",
+      "freetext": "رایگان رایتلی",
+      "maintext": " بازنده - فصل ۱ قسمت ۱"
+    },
+    {
+      "id": 2,
+      "description": "اکشن - جنایی",
+      "details": "۲۰۲۴ - آمریکا - زیرنویس دارد",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_150036_186891.jpg?width=300&quality=85&secret=OoMpN1UQO0xFbB9cOj4ETw",
+      "alt": "item-2",
+      "freetext": "رایگان رایتلی",
+      "maintext": "قهرمانان از دست رفته"
+    },
+    {
+      "id": 3,
+      "description": "اکشن - بیوگرافی",
+      "details": "۲۰۲۴ - هند - زیرنویس دارد",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_149935_186661.jpg?width=300&quality=85&secret=aGeOm7mNQPn-0bLzNHg7jw",
+      "alt": "item-3",
+      "freetext": "رایگان رایتلی",
+      "maintext": "چاندوی قهرمان"
+    },
+    {
+      "id": 4,
+      "description": "اکشن - ماجراجویی",
+      "details": "۲۰۲۲ - آمریکا - چندزبانه",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_119991_39441-b.jpg?width=300&quality=85&secret=6ryecBuuKBpmFycfHRR42w",
+      "alt": "item-4",
+      "freetext": "رایگان رایتلی",
+      "maintext": "ارباب حلقه ها: حلقه های قدرت - فصل ۱ قسمت ۱"
+    },
+    {
+      "id": 5,
+      "description": "هیجان انگیز - اکشن",
+      "details": "۲۰۲۴ - کانادا - چندزبانه",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_149559_185737.jpg?width=300&quality=85&secret=08NDgUgSFX6ZQWmm_jHxKg",
+      "alt": "item-5",
+      "freetext": "رایگان رایتلی",
+      "maintext": "هجوم گرگ ها"
+    },
+    {
+      "id": 6,
+      "description": "وحشت - هیجان انگیز",
+      "details": "۲۰۲۴ - آمریکا - چندزبانه",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_149555_185735.jpg?width=300&quality=85&secret=2822TAEKh5FkcVtwgmNunA",
+      "alt": "item-6",
+      "freetext": "رایگان رایتلی",
+      "maintext": "رهایی"
+    },
+    {
+      "id": 7,
+      "description": "اکشن - ماجراجویی",
+      "details": "۲۰۲۴ - چین - هنگ کنگ - چندزبانه",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_149666_186019.jpg?width=300&quality=85&secret=E1WjFj0ZHMNmp8-aooi4zg",
+      "alt": "item-7",
+      "freetext": "رایگان رایتلی",
+      "maintext": "افسانه"
+    },
+    {
+      "id": 8,
+      "description": "اکشن - ماجراجویی",
+      "details": "۲۰۲۴ - آمریکا - چندزبانه",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_149163_184929.jpg?width=300&quality=85&secret=DuFtLUi8wrl2Mwa4ii2J7g ",
+      "alt": "item-8",
+      "freetext": "رایگان رایتلی",
+      "maintext": "گردبادها"
+    }
+]
