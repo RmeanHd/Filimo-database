@@ -24,29 +24,5 @@
       "details": "کنترل دنیای جنایتکاران",
       "btnText": "تماشای رایگان",
       "btnLink": "https://www.filimo.com/m/hpvnd"
-    },
-    {
-      "id": 3,
-      "desktopSrc": "https://static.cdn.asset.filimo.com/ct/5csyz_desktop_1_v3.jpeg?width=1920&quality=85&secret=pEUYsUIvWqWxg44zGk6HFw?6",
-      "mobileSrc": "https://static.cdn.asset.filimo.com/ct/ea4d7_mobile_1_v1.jpeg?width=960&quality=85&secret=86jWICjrNrsqfuDS5yblZw?6",
-      "alt": "item-3",
-      "exclusive": "https://www.filimo.com/assets/web/ui/img-hyjUGF4iRmci82bufDLCA/filimo/exclusive-fa.svg",
-      "movieAlt": "item-3",
-      "time": " یکشنبه‌ها، ساعت ۸ صبح",
-      "details": " اگه یک قدمی شکست هم بودی، لبخند بزن",
-      "btnText": "تماشای رایگان",
-      "btnLink": "https://www.filimo.com/m/hpvnd"
-    },
-    {
-      "id": 4,
-      "desktopSrc": "https://static.cdn.asset.filimo.com/ct/zucv2_desktop_1_v1.jpeg?width=1920&quality=85&secret=6M3F2hi-UrHvquUj9WQ_6w?6",
-      "mobileSrc": "https://static.cdn.asset.filimo.com/ct/zucv2_mobile_1_v1.jpeg?width=960&quality=85&secret=ukop-yxVEN3L4kWjj3XWAg?6",
-      "alt": "item-4",
-      "exclusive": "",
-      "movieAlt": "item-4",
-      "time": "",
-      "details": "https://static.cdn.asset.filimo.com/ct/zucv2_logotype_v1.png?width=300&quality=85&secret=SqKv6SzmghHTFaRIGfNF0g",
-      "btnText": "تماشای رایگان",
-      "btnLink": "https://www.filimo.com/m/hpvnd"
     }
   ]
